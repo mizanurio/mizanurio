@@ -16,44 +16,43 @@
 <td width="50%" valign="top">
 
 ```
-            .          :; :$$$$.  +X:
-               .  ;. ;XXX$XXXXX$$$$$$$x
-        ;x;x    +XXXXXXXXXXXXXXXXXXXXXXXX
-       .:;x.;xxXXXXXXXXXXXXXXXXXXXXXXXXXXX:
-    .:+.;;XXXXXXXXXX$$XXXXXXXX$XXXXXXXXXXXXxX:
-    .:XXXXXXXXXXX$$$$$$$$$$$$$$$$$$$$$$XXXXXXXXXx;
-   .;XXXXXXXXX$$$$$$$$$$$$$$$$$$$$$&$$$$$$$XXXXXXXXx
-  x$X$XXXXXX$$$$$$$$$$$&&&&&&&&&&&&&&$$$$$$$$$$XXXX;.
- x&$$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$&$$$$$$$$$$$$$$$XX.
- +$$$$$$$$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XX:
-x$$$$$$$XXX$$$$$Xxx$$$$$$$$$$$$X$XX$$$$$$$$$$$$$$$$XX;
-x$$$$$XXXX$$$$Xx+;+XXX$XX$$XX$$$X+++X$&$&&$$$$$$&$$$X;
-X$$$$$$XX$$$$$X++;;xXXXXXX$$$$$$$+;;+$$&&&$$$$$$$$$$$:
-X$$$$$$$X$$$$X+;;;;;+X$X$$$$&&&$$$X+++$$&&&$$$$$$$$&$
- $$$$$$XX$$$x+;;;:::::::;;++;;;;;;;;;;+XXXX$$$$$$$$$+
- $$$X$X+;+;;;::::::::::::.......:.::::::;;;+$$$$$$$$
- X$$$$x;::;++++;;;::::::::::::::::::;;:::::;X$$$$$$
- x$$$$;:;xxxxxXX$$$X++;;::;;;xX$$$$XXxxx+:::;$$$$$X
-  $$$X::+++++x+xxxxxxx+;::;++xxx++;;;;;+++:::X$$$$$
- xX$$+:;+xXXx+$&&+XX+x+:..:++xX+x&&$+$Xx++;::x$$$$;
- XxX$:::;;;;;;;++++++;;:...;;+++++;;;;;;;;:::+$$Xx;
- x;+X.::::::;;;;;::::::...::::::;;;;:::::::::;XX++.
- ;+x+.::::::::::::::::.....:::::::::::.......:Xx;;
-  ++::::...:::::::::::.......::::...........::x;;;
-  ++:::::::::::;;;;;+;;::::;;:::;:::::::::::::+;;:
-  ;+::;;;;;;;;;;;:;++++xx++;;;:::;;;:::::::::;+::.
- ;;+:;;;;;;;+++++xxXXXXxxXxxxx+;;;;+;;;;;;;;;;;::
-    :;;;;;;;xXXx++;;+++;:;;;;:;+xxx++;;;;;;;;;::.
-    :;+++;;;+++x$Xxxxxxxxx+x+xxXXxxx;;;;;;++;.
-     ++++++;+;;;;;++;;;;;;;;;;;;;;;;;;;;+++++
-     :xxx+++;;;;;++xxxxxxxxxx+;;;;;;;+++++xx.
-      +Xxxx++;;;;+++xxxX$$Xx++;;;;;+++++xxx;
-       :XXxx+++;;;;;;;;;;;;;;;;;;;;++++xxx;
-        xXXXXxx++++++++++++;+;;;++++++xXX:
-        ++xXXXX$XXX$$XXXXXXXXXXxxxxxXXXx+
-        ;+++xXX$$$&&&&&&&&&&&&&$$$$XXX++;
-      ; +++++xxXX$$&&&@&&&&&&&&&$$XXx+;+.:;
-    +X:.xx+++++xxxxX$&&&&&&&&&$$$Xx++++;..:X.
+                                      ..+;..:
+                              ..  :;+XX$$XXXX$+.
+                             .:+xxXX$$$$$XXXXXXX;.
+                            ;XXXX$$$$$$$$$$$$$$$XXX+;
+                          :x$$$$$$$$&&&&&&&&&&$$$$$$X.
+                          x$$$$$$$$$$$$$$$$$$$$$$$$$$+
+                         .$$$$$$$X++X$$$$$$xx$&&$$$&$X
+                          $$$$$$X+;;+XX$$$$X+x&&&$$$&x
+                          x$$xx+;;::::::::::::;;+$$$$:
+                          +$$;;+xxxx+;::;+xxx++;:x$&x
+                          :$x:+xxXXXx+::+xxXxxx+:;$$+
+                          +x;::;;;;;;:..:;;;;;;::;Xx:
+                          :x:::::::::....::::....:x;
+                          .+::::;;;;++;;+;:;::::::;:
+                          .;;;;;+x+xxx+x+++++;;;;;;.
+                            ;++;+++++++;;++++;;;+;
+                            :xx++;;+xxxx++;;;+++x.
+                             :Xx++;;;;++;;;;++xx:
+                              +XXXXXXXXXXxxxxXX:
+                             .++xX$&&@&&&&&$Xx+..
+                           :x.+++++xXX$$XXXx++:.+;
+                        :;xxx::;++++++++++++;:::+xx;.
+                  .::;xxxxXXx::;;+++++++++;:::::XXxxxx;::.
+             .::+xxxxxxxXXXXx;x$Xx;+x+++;+Xx:::+XXxxxxxxxXx;:
+         .:+xXXXXXXXXXXXXXXXXxX+x+;++xx+;;x$$+;xXXXXxxxxXXXXXx+;.
+      :+xxxxXXXXXXXXXXXXXXXXX++;;;+++++;;:;;xxXXXXXXXXXXXXXXXXXXXx+:.
+     :xxxxxXXXXXXXXXXXXXXXXXXx::;;;;;;++:;;;;;XXXXXXXXXXXXXXXXXXXXxxxx;.
+     +xXXXXXXXXXXXXXXXXXXXXXXX::;:;::;;+;:;::+XXXXXXXXXXXXXXXXXXXXXXXXx+
+    .xxxXXXXXXXXXXXXXXXXXXXXXX;;+::;;;+;;:;::XXXXXXXXxxXXXXXXXXXXXXXXXxx
+    ;xxxXXXXXXXXXXXXXXXXXXXXXX+;+;;+.:;:::;;+XXXXXXXXXXXXXXXXXXXXXXXXXXx
+    +xxXXXXXXXXXXXXXXXXXXXXXXXx:;;+;;:;::::;xXXXXXXXXXXXXXXXXXXXX$XXXXXX
+   :xxXXXXXXXXXXXXXXXXXXXXXXXXX;;;;;;;::::;xXXXXXXXXXXXXXXXXXXXX$$XXXXXX.
+   +xXXXX$$XXXXXXXXXXXXXXXXXXXX+:;;;;;:::;xXXXXXXXXXXXXXXXXXXXX$$$XXXXXX:
+  :xxXXX$$&XXXXXXXXXXXXXXXXXXXXX:;;;;;::;;XXXXXXXXX$XXXXXXXXXX$&$$XXXXXX;
+ .xxXXXXX$&$XXXXXXXXXXXXXXXXXXXX;;:;;+;:;xXXXXXXXX$XXXXXXXXXX$&$$$$$XXXX+
+ xXXXXXXXX$&XXXXXXXXXXXXX$XXXXXX+;:::+;;+XXXXXXX$$XXXXXXXX$$$&&&&$$$XXXXx
+.XXXXXXXX$$&$XXXXXXXXXXXXX$XXXXXX+;:.;;;XXXXXXX$XXXXXXXX$$$$&&&&$$$$$$XXx
 ```
 
 </td>
@@ -74,6 +73,28 @@ X$$$$$$$X$$$$X+;;;;;+X$X$$$$&&&$$$X+++$$&&&$$$$$$$$&$
 |            Cloud Security         |
 | Status   : Open to cybersecurity  |
 |            roles & collaborations |
+|                                   |
+| mizanur@soc:~$ cat focus.txt      |
+|                                   |
+| - Blue Team: threat detection,    |
+|   SIEM, log analysis, SOC ops     |
+| - Cloud: AWS and GCP deployments  |
+| - AI + Security: LLM-assisted     |
+|   security workflows              |
+|                                   |
+| mizanur@soc:~$ cat stack.txt      |
+|                                   |
+| Linux . Python . AWS . GCP        |
+| Splunk . Networking . Claude AI   |
+|                                   |
+| mizanur@soc:~$ cat certs.txt      |
+|                                   |
+| [x] Google - Foundations of       |
+|     Cybersecurity                 |
+| [x] Google - Play It Safe         |
+| [ ] CompTIA Security+ (active)    |
+|                                   |
+| mizanur@soc:~$ _                  |
 +-----------------------------------+
 ```
 
