@@ -11,81 +11,67 @@
 
 <br/>
 
-```
-mizanur@soc:~$ whoami --ascii
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```
-                                                            ".
-                                               .^^  .. `-+_XpZxl-jf+.
-                                            `I;:^`"<))fOqmqpqqwqqppdO}^
-                                           "!_]{1]c0mwqppqqqqwwwmZZZZZC>`
-                                         "l[?t0ZZmwwqppppppppppqqmwmmZ0OJ{!.
-                                        ^!)QwqwwwqpddbbbbbkkkkkkbkhkbpqwmmmOc(:
-                                       `ifqpqqqqpbkhhkkhaooooooooooahkkbbpqqqwJ,
-                                       rkbddddbkkhaaaaoooaaaaoaooooahkbkhhkbdqJ;
-                                      ^Yhbbbbbbbkkkhhahahkkbbbbbkhahhkbbkhhhkdw{"
-                                      |akbddppdkkbmJXmdbkkkdddpp0QdhaoabbkaoakpmI
-                                      {bbdpppdkkbwzt|Jmqqmqbbbkbvfzpo*oakkbkaahq;
-                                      {bbdbbddkkqYt(1)XZpppkooahpUrXko*oakddkaaC.
-                                      :qbddp0wqQr|1}]?--})|||(((((1)rJUUwbbkhah-
-                                      .OkbbQ(11)1{}]??--+++++++++_-???[{xbkhahc.
-                                       cahbf[jYCQQZZOUr(}]]}(xJ0ZOJUzj{[{Qaaaki
-                                       ibh0?)xzYXCOZ00Qz)]](zCOQJzcccvr1]tkhak>
-                                      .Xmbx-)rccrXQUzUzr]~~{rXJX00czXct1]1dbdC`
-                                      .zc0]_?[{)ffff()1[~>>_[1(ftf|){[?--}wwYt.
-                                       [vX~~++__-----]?+>ii<_-_+__++~~<~+_Cz|+
-                                       >vr~+++++__-?[--_>!!><~--+~<<<<<~+_j))I
-                                       lf|?}}}[}1()}(vJXrtfvcf}}){]--????]f[?^
-                                       ~ff{(|||fxxrrzC00JJQJXxf((ff)11)11{f]+.
-                                       `l<|ttf|rQ0JzcvxrtffftfjcCUr|)(|||(_>,
-                                         "jxxjf|rrvXzxjttt|||jxvvct)(ftrr}.
-                                          {UYcrjt||trczccvvvxf(11(|fjrvzcI
-                                          `rOJXvjfffjvYC0mmQzj())|jrvXUC?
-                                           `rZOJzxf())))((|(11))ftrvXQ0[
-                                            !J0wmZQCCCCJJJJUUXczXXYCZ0?.
-                                           .+jcUOwdhaoo****ooakdpqwZUri
-                                         .>-{zxvXCZpk*MMMMMM##*abmJcj{>+;
-                                        I(O?_XXvvcczYQwbhhhhkdqwQcrrj~~]Q}`
-                                     .<tUOU+>[fvxxxrrvcXXYYXzvrjjttj-~~]QQv~.
-                                 .:_(vUJC0C?~~]?jxvccvvxjrrxrrrrj{}__~~|OQCUv}!`
-                           ."l~[tXJJCCQQ0m0{-++}]cjczcvvvxrrrxrt]__-+~+z0OQJUUYXf[<l^
-                       .;_|XCCCCCCQQQO00ZZ0(](Cwq0Yjzzcxxrjrrfj{-??__<}mZOQCCJJJJJCQCc{>^
-                  .I?|xUOQQQOOOQQQOOO000ZZO|fqkqCz{-fxXcxxxttrmhdv-<-?XwZ0OQQCCJCCQQOOOQJr}i`
-             .;<[rJQOOOOOOOO0ZZ00O000ZZZZZ0zp0UvXXt{r(YJUUX|?{r0boq)-1Um000OOQQQQQQQO000OOQQUf_I.
-          ^+|zUCCQQQOOOOO00000ZZZZZZZZZZZZZXCxj){xxxrtzYUYx{1{fxCOhhwYwZ0000OOOOOO00Z00000O0OOQQX(~"
-        "fUJCCCQQQOOOO00000000000ZZZZZZZZmZvz(X]]x1jrrvrxxt{}]-j+|c1ZwmZ00O0000000Z0000000000OOOQQCUx)<^
-        ?CCQOQQQOOO0O00000ZZ00000ZZZZZZZZZZYj-[{f{]r_jx|rrx[]j?f{]([YZZZ000000000000000000000OOOOOQQCCCU(l
-        fJCOOOOOOOOOO00000ZZZ000ZZZZZZZZZZZZv-{[ji1r<j[()(1|{}{-(}>tJZZ0000ZZZZZZ00000ZZZ000000000OOQOOQCJi
-       ,XJQO0OOOOO00O00000ZZZZZZZZZZZZZZZZZZc?)[fi({?)!|]|x}j<}t~)~QOZZ000ZZZmm0CO000ZZZ0ZZZZZZ000O00ZOQQC]
-       {UCCQOOOOOO000000000ZZZZZZZZZZZZZmmZZC?x((-t+t{))c1c-({_r_]tO0ZZ000ZZmmZUzU0ZZZZZZZZZZZZ0000ZmmOOQQ{
-      `cUCCQOOOOOO0000000000ZZZZZZZZZZZZZZZZZ?v1}ffiU]>ir](}if]]j-QO000000ZZZZmmmZZmZZZZZZZZZZZZ0Zmwmm00OQ)
-      !XUCQOOOOOOOO000000000ZZZZZZZZZZZZZZZZZfv{}vf1(]?i)|<(~?{lj1OO0000000ZZZZZZZZZZZZZZZZZZZZZZmqwZZZZ0Qt
-     `|XJCOO0000OO00000ZZZZZZZZZZZZZmZZZZZZZZJj[?cf1)+r-?fl[)i1]}YO00ZZ00000ZZZZZZZZZZmmmmmmZZmmqdqmmmZZZ0z.
-     !cYCQ00ZZmm0000000ZZZZZZZZZmmZmZZZZZZZZZZc[+c(}|_x?[{_](~-jrO00ZZZZZZZZZZZmZmmmmmmmmmmmmmwdhdwwwmmZZ0J^
-     }zUQ0ZZmmwwZ0O000ZZ0ZZZZZZZZmmmmmZZZZZZZZJ->|)+t~|}}>[??f_JCO0ZZZZZZZZZZmwmmmmmmmmmmmmmmqbakqqwwwmZZ0O;
-    "xYCOmwqqqdbw000ZZ0ZZZZZZZZZZmmmmmmmmmZZZZ0f>j|~Y+|(|lf?>t{QO0000ZZZZZZZmqwwwwwwwwwwmmmwqboappqqwmmZ000+
-    ?YCQ0mwpbbkhbZ00ZZZZZZZZZZZZZZmmmmmmmmmmZmmC>(j~U+|){+]1](cOO0000ZZZZZZwpqqqwwqqwwwmmmwqbo*bpqqqwmZZ000}
-   !XCQO0ZZmqdhaoqZZZZ0ZZZZZZZZZZZZmwwmmmmmmmmmm+ft<Y-{|]|>}f(QO00000ZZmmmqpqqqqqqqqwwmmmwqda#hddpppqwmZZZ0|
-  lYQQQO0ZZmmwphokZZZZZZZZZZZZZZZZZmwqwmmmmmZmmm]rj<z?}v[x~1YUOO0000ZZZmmqpqqqqqqqqwwwwwwqdh#okhhhhkbqmmmZ0z.
- .vOOOOO0ZZZmmwphomZZZZZZZZZZZZZZZZZmqqwwwmmmmZm|t|<j[_z1?|-OOO0000ZZmmwppqwwwqqqwwwwwqqpdk*#oo*oabdqqqwwZ0Q"
- !OO0OOO00ZZmmqbo#pmmmZZZZZZZZZZZZZZmqdpqwwwmmmmYr)-)lIct+c)OO00ZZZZmmqppwwmmwwwwqqqqppdbk*###*hbbppqppqwm0Q,
- 1OOO00000ZZmqdhaobmmmZZZZZZ000ZZZZZmmqbpqwwmmmmZx{?{;<?1[[JO00ZZZZmwqpwwwwmmmwwwqqpppdbko##*ohbdqqpddpqwmZJ`
-.zQQOOO0Zmmmmmwpb**wmmZZZZ00000ZZZZmmmwqbpqwmmmmmCt-|}{![rfO000ZZZmmwwwwwwwwwwwwwqqpdbkha*M*hdpqqqppdpqwmZ0C~
-;JCQQOOO0ZZmmZmdo##dwmZZZZZZ00ZZZZZZZZmwpkdpwwmmmZz-|{]??UU0ZZZZmmmwwwwwwwwqqqqqqpppbbkao#MabdpqqqpppqwmZZ0Cc.
+                        .``",]1YC1r|;
+                      ^!))t0wppqqwmZZ|;
+                     ,j0wwpdbbbkkbbkpwmU|>
+                    iOpddbhaaaaaoooakkkbpX`
+                    zkbddkp0dkkbddmkakkahq~
+                    Jbddkpc(YwqkhbcUaohbhh+
+                    |bpXXf{]-?[[[[[}fj0khQ.
+                    ~hC1zUCQX|])cCYcr1|ha[
+                    -m(1xvJXc1<{cYCcr)]qw!
+                    iz++_-???<!<-__+~~+z|`
+                    :t?[[{11xr(f1[}?-??)_
+                    ^+(t|XJYYzvvxvzf)|(-;
+                      fzjtfrvxxjf|f|tv|
+                      ,YJvf|jxzx|(fxYX,
+                       ?JZmwqwwmZQQOJI
+                     "})czCmh###okOc)~+
+                  .l)Jr~(xxxczXzvrt|+_Qji.
+             `!_{rUCQ0z-[tvccvrrr|--+)0CUz|]<,
+         ;-)xCQOQQO00ZXvpOt(ccvttZX_-JZOQCCCQOz1<^
+    .l}rUQOOO000Z0ZZZZQUjtvrrYX)1z0wXZ00OOOO000OOCv}l.
+    fCQQQOO000000ZZZZZO1|1|(rtr}}{{1OZ000000000000OOCJt~.
+   ^YQOOO00000ZZ0ZZZZZZ|1)?{}1(){)?|0Z00ZZO00ZZ00000O0OC_
+   -JQOOO00000ZZZZZZZmZx(r[1[(|}]{{Q000ZZZC0ZZZZZZZ0Zm0Q[
+  .tJQOOOO000ZZZZZZZZZZQ1rt)]?[-][fO0000ZZZZZZmmZZZwwmZ0)
+  iXQ0Zm0000ZZZZZmmZZZZZt1j}{]?)])C0ZZZZZmmmmmmmmmddwmm0x
+  (JZwpdq00ZZZZZZmmmmmZZJ]t1})?_}CO0ZZZZwqwwwwmmwbapqwZ0J
+ iJQZmphhZZZZZZZZZmwmmmmm)f)[)]]cO00ZZZqqqqqqwmwd*bdpqZZ0^
+:COO0ZmqaqZZZZZZZZZqwwmmmr|{]t{fO00ZZmqqwqqwwwqdoooabpwm0i
+}O000ZmdobmZZZZ0ZZZmdqwmmQ1[l({c00Zmwqwwmwwqppbo#okppppw0i
+vQOOZmZwh*wZZZ00ZZZmwdpwmmx{1-x00Zmmwwwwwwqqdba#odqqppwZ0)
 ```
 
+</td>
+<td width="50%" valign="top">
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  Cybersecurity engineer. Content creator. AI builder.        │
-│  SOC Analyst in the making — building real skills,           │
-│  not just certifications.                                    │
-│                                                                │
-│  Location  : Sydney, Australia                               │
-│  Focus     : Blue Team · SIEM · Cloud Security                │
-│  Status    : Open to cybersecurity roles & collaborations    │
-└─────────────────────────────────────────────────────────────┘
++-----------------------------------+
+| mizanur@soc:~$ whoami             |
+|                                   |
+| Cybersecurity engineer.           |
+| Content creator. AI builder.      |
+| SOC Analyst in the making,        |
+| building real skills, not         |
+| just certifications.              |
+|                                   |
+| Location : Sydney, Australia      |
+| Focus    : Blue Team . SIEM .     |
+|            Cloud Security         |
+| Status   : Open to cybersecurity  |
+|            roles & collaborations |
++-----------------------------------+
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
